@@ -138,8 +138,9 @@ color: #212121;
 
     padding: 200px 0px;
 
+
     background-color: var(--bg-color);
-    background-image:  linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)) ,url("./img/bg-hero-img.jpg");
+    background-image:  linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)) ,url("./photo-hero-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -205,20 +206,20 @@ color: #212121;
 }
 
 .features-list-item-first::before{
-    background-image: url("./img/feature-img-first.png");
+    background-image: url("./feature-first-png.png");
 
 }
 
 .features-list-item-second::before{
-    background-image: url("./img/feature-img-second.png");
+    background-image: url("./feature-second-png.png");
 }
 
 .features-list-item-third::before{
-    background-image: url("./img/feature-img-thirth.png");
+    background-image: url("./feature-third-png.png");
 }
 
 .features-list-item-fourth::before{
-    background-image: url("./img/feature-img-fourth.png");
+    background-image: url("./feature-fourth-png.png");
 }
 
 .features-list-title{
